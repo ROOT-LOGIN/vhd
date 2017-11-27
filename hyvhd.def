@@ -1,0 +1,19 @@
+
+EXPORTS
+	VhdGetTimestamp
+	VhdMakeGmtTime
+	VhdMakeLocalTime
+	VhdConvertVhdTime
+	VhdConvertFileTime
+
+	VhdCalculateCHS
+	
+	VhdOpenDisk
+	VhdCloseDisk
+	
+	VhdReadSector
+	VhdWriteSector
+
+	VhdCreateFixedDisk
+	VhdCreateDynamicDisk
+	VhdCreateDifferencingDisk
